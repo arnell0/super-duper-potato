@@ -1,2 +1,3 @@
 # super-duper-potato
-Let the potato rest for five minutes
+Let the potato rest for five minutes.
+
